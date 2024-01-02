@@ -8,7 +8,7 @@ about:
 
 -   **Macalester College** \| St. Paul, MN <br> B.A. in Geology, minor in Data Science \| Sept 2021 - May 2025 <br> GPA: 3.88
 
-Coursework: Petrology & Geochemistry, Remote Sensing of the Environment, Geomorphology, Statistical Machine Learning, Linear Algebra, Mineralogy, Structural Geology, Introduction to GIS.
+Coursework (Spring 2024): Petrology & Geochemistry, Remote Sensing of the Environment, Geomorphology, Statistical Machine Learning, Linear Algebra, Mineralogy, Structural Geology, Introduction to GIS.
 
 ## Experience
 -   **Macalester College** \| St. Paul, MN 
@@ -30,7 +30,7 @@ Coursework: Petrology & Geochemistry, Remote Sensing of the Environment, Geomorp
     <br> - Presented findings at the 2023 Macalester's Summer Research Poster Session and the 2023 National Diversity in STEM Conference.
     
 -   **UWC Robert Bosch College** \| Freiburg, BW, Germany
-    <br> - Science Tutor \| September 2020 - May 2021
+    <br> Science Tutor \| September 2020 - May 2021
     <br> - Summarized course content for Biology and Earth Systems and Society to improve students’ retention and experiential learning of a variety of science concepts. 
     <br> - Recreated classroom activities and review sessions through engaging and clear communication with students and teachers.
 
