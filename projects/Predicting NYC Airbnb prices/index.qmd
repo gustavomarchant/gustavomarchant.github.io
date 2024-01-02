@@ -1,0 +1,21 @@
+---
+title: "Predicting AirBnb prices in NYC. Machine Learning regression"
+description: "Group project using Least Absolute Shrinkage and Selection Operator"
+image: highlight.png
+image-alt: quizgrader logo
+categories:
+  - Machine Learning
+about:
+  template: solana
+  image: highlight.png
+---
+
+In the heart of the bustling metropolis that is New York City, a dynamic marketplace of AirBnb listings unfolds, offering a plethora of accommodations to travelers from all corners of the globe. From snug apartments in the heart of Manhattan to expansive lofts in Brooklyn, these listings not only span the spectrum in terms of location but also come with a rich array of features and amenities. Today, we embark on a statistical exploration to uncover the underlying factors that dictate the price of these listings. Our investigative journey will revolve around two pivotal questions:
+
+- Predicting Airbnb Listing Prices: Can we forecast the price of an AirBnb listing based on its features?
+
+- The Anatomy of Price Differences: What are the discerning characteristics that elevate some listings to a higher price bracket than others?
+
+**Products**
+
+- [Report](https://drive.google.com/file/d/1qr7GlBOZ576D0xGjvGC9k_pt1CP6XMAW/view?usp=sharing)

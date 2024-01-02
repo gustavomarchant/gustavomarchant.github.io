@@ -1,0 +1,19 @@
+---
+title: "Will my flight be late? Machine Learning classification"
+description: "Group project using random forests classification"
+image: flights.png
+image-alt: quizgrader logo
+categories:
+  - Machine Learning
+about:
+  template: solana
+  image: flights.png
+---
+
+This Shiny App predicts whether a flight leaving from the Minneapolis/St Paul Intl Airport will depart on time or late. You can import the following information from your flight and this Machine Learning algorithm (Random Forest) will print a prediction.
+
+When predicting new data points the user can expect the model to be accurate roughly 87% of the time. Keep in mind that our model is better at predicting on-time flights as this is the most dominant category in the data set used to build the forest.
+
+**Products**
+
+- [ShinyApp]()

@@ -1,0 +1,32 @@
+[
+  {
+    "listing": "/about.html",
+    "items": []
+  },
+  {
+    "listing": "/Projects.html",
+    "items": [
+      "/projects/Fracking-induced Seismicity/index.html",
+      "/projects/Geomorphic study of Minnehaha Creek/index.html",
+      "/projects/COVID19 and US Prisions/index.html",
+      "/projects/Orange glass from the Moon/index.html",
+      "/projects/Predicting NYC Airbnb prices/index.html",
+      "/projects/Predicting flight delays/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/comp112/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/Projects/Fracking-induced Seismicity/index.html",
+      "/Projects/Geomorphic study of Minnehaha Creek/index.html",
+      "/Projects/COVID19 and US Prisions/index.html",
+      "/Projects/Orange glass from the Moon/index.html",
+      "/Projects/Predicting NYC Airbnb prices/index.html",
+      "/Projects/Predicting flight delays/index.html"
+    ]
+  }
+]

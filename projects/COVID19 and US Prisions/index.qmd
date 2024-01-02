@@ -1,0 +1,19 @@
+---
+title: "How did COVID19 affect US prisions?"
+description: "Final project studying the spread of Covid-19"
+image: highlight.jpg
+image-alt: quizgrader logo
+categories:
+  - Data Science
+about:
+  template: solana
+  image: highlight.jpg
+---
+
+Three years into the COVID-19 pandemic, we're discovering new and alarming ways that illness affects different populations and interacts with issues such as incarceration. At more than two million people, the United States has the highest incarceration rate in the world. Despite having limited public information about Covid deaths among incarcerated people, prisons have been epicenters of Covid cases and deaths. The Department of Justice, which is mandated by Congress to report on deaths in prisons, ceased their reports in 2020, leaving a wide gap in available information about how the pandemic has affected incarcerated populations.
+
+The COVID Behind Bars Data Project, which provided data for this analysis, was launched in 2020 by the UCLA Law School. Their goal is to quantify the spread and impact of the pandemic within prisons and shine light on the shortcomings of the prison system. According to UCLA Law, the most humane response to the issue of Covid behind bars would be to release people from custody and push for better health practices for those who remain incarcerated.
+
+**Products**
+
+- [ShinyApp](https://awhite5.shinyapps.io/covid-in-prisons/)

@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gustavo Marchant Allende",
+    "section": "",
+    "text": "Pronunciation\nhe/him/él\n\n\n\nMacalester College | St. Paul MN \nB.A. in Geology, minor in Data Science | Sept 2021 - May 2025"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Projects",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Gustavo Marchant Allende",
+    "section": "",
+    "text": "Macalester College | St. Paul MN \nB.A. in Geology, minor in Data Science | Sept 2021 - May 2025"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nFracking-induced Seismicity in Oklahoma: Impacts and Perspectives\n\n\n\nGIS\n\n\nData Science\n\n\n\nGIS Spatial Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeomorphic study of water discharge at Minnehaha Creek\n\n\n\nGeology\n\n\n\nFinal report, Geomorphology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow did COVID19 affect US prisions?\n\n\n\nData Science\n\n\n\nFinal project studying the spread of Covid-19\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrange glass from the Moon: new perspectives in olivine crystallization from Ti-rich magma\n\n\n\nGeology\n\n\nPlanetary Science\n\n\n\nSummer research on the petrology of lunar samples.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting AirBnb prices in NYC. Machine Learning regression\n\n\n\nMachine Learning\n\n\n\nGroup project using Least Absolute Shrinkage and Selection Operator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWill my flight be late? Machine Learning classification\n\n\n\nMachine Learning\n\n\n\nGroup project using random forests classification\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/comp112/index.html",
+    "href": "projects/comp112/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html#gustavo-marchant-allende",
+    "href": "index.html#gustavo-marchant-allende",
+    "title": "Gustavo Marchant Allende",
+    "section": "",
+    "text": "Pronunciation\nhe/him/él"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Gustavo Marchant Allende",
+    "section": "About me",
+    "text": "About me\nI am geology student largely interested in planetary geology. I have coursework on Petrology and Geochemistry, Remote Sensing, and Machine Learning. I am interested in planetary origins, planetary interiors, and the role of magma and mineral chemistry. I am looking for ways to intersect remote sensing, mineralogy, machine learning, and petrology."
+  },
+  {
+    "objectID": "index.html#personal",
+    "href": "index.html#personal",
+    "title": "Gustavo Marchant Allende",
+    "section": "Personal",
+    "text": "Personal\nI was born in Santiago, Chile but I grew up in Padre Hurtado, a town in the outskirts of the city. When I was 17, I received a United World College scholarship to attend UWC Robert Bosch in Freiburg, Germany. After finishing the International Baccalaureate diploma, I moved to Saint Paul, MN to start my undergrad at Macalester College.\nI love baking and cooking for my friends. I keep my own recipe book with recipes that I inherited from my great-grandmother. As a member of many international communities, I love trying foreign food.\nI am a huge Star Wars fan. Every so often I might do a six-movie marathon. Recently, I have even started thinking about the geology of Star Wars planets!"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Gustavo Marchant Allende",
+    "section": "Get in touch",
+    "text": "Get in touch\nEmail gmarchan@macalester.edu"
+  },
+  {
+    "objectID": "index.html#gustavo-a.-marchant-allende",
+    "href": "index.html#gustavo-a.-marchant-allende",
+    "title": "Gustavo Marchant Allende",
+    "section": "",
+    "text": "Pronunciation\nhe/him/él"
+  },
+  {
+    "objectID": "projects/Orange glass from the Moon/index.html",
+    "href": "projects/Orange glass from the Moon/index.html",
+    "title": "Orange glass from the Moon: new perspectives in olivine crystallization from Ti-rich magma",
+    "section": "",
+    "text": "Apollo 17 astronauts collected a drill core through volcanic material from titanium-rich eruptions (~9 wt.% TiO2). Unlike other pyroclastic samples from the Moon, this deposit contains olivine crystals, whose texture and chemistry reflects its growth environment. We selected five thin sections from the drill core to investigate the processes occurring during the magma’s ascent and eruption.\nThis summer, I constructed mosaics of thin section 74001,6047 using a petrographic microscope (plane-polarized at 4x magnification) and a scanning electron microscope (backscattered electron imaging at 500x magnification). Based on initial imaging results, we hypothesize that crystallization of olivine happened in three phases, reflected by three textural groups; deep within the lunar mantle (~300-µm crystals), while magma rose (~50-µm crystals), and during eruption (sub-µm dendrites).\nWe will use electron microprobe analysis (EMPA) to quantify chemical zoning in olivine grains, relating chemical differences to the three textural groups, which reflect the magma’s origin, speed of ascent, and eruption characteristics. Initial results from chemical zoning in section 74002,6043 demonstrate variations in magnesium, iron, titanium, phosphorus, and chromium within olivine crystals. Continuing research will quantitatively classify the texture of olivine crystals and model elemental diffusion in these sections to obtain timescales of magma ascent and possible mixing.\nProducts\n\nPoster\nPoster presentations at Macalester Summer Poster Presentation (October 2023) and National Diversity in STEM Conference (October 2023)"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Macalester College | St. Paul, MN  B.A. in Geology, minor in Data Science | Sept 2021 - May 2025  GPA: 3.88\n\nCoursework: Petrology & Geochemistry, Remote Sensing of the Environment, Geomorphology, Statistical Machine Learning, Linear Algebra, Mineralogy, Structural Geology, Introduction to GIS."
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "Macalester College | St. Paul, MN  B.A. in Geology, minor in Data Science | Sept 2021 - May 2025  GPA: 3.88\n\nCoursework: Petrology & Geochemistry, Remote Sensing of the Environment, Geomorphology, Statistical Machine Learning, Linear Algebra, Mineralogy, Structural Geology, Introduction to GIS."
+  },
+  {
+    "objectID": "CV.html#experience",
+    "href": "CV.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\nMacalester College | St. Paul, MN  Geology Laboratory Assistant | September 2022 - Present  - Operated petrographic and imaging laboratory equipment (Scanning Electron Microscope (SEI & EDS), X-Ray Diffractometer, Micro X-Ray Spectrometer) for students’ research and department inventory.  - Cataloged 500+ teaching and display mineralogical samples for the Geology department.  - Produced a new instruction manual with pictures and demonstrations for better SEM/EDS use and training.\nMacalester College | St. Paul, MN  Undergraduate Teaching Assistant | September 2023 - Present  - Introduction to Data Science (Fall 2023, Spring 2024).  - Empirical Research Methods (Fall 2023).\nMacalester College | St. Paul, MN  Undergraduate Researcher | June 2023 - September 2023  - Explored six thin sections of lunar volcanic ejecta collected by Apollo 17 astronauts to understand its geological history.  - Worked with Professor First to explore previous literature on lunar geology, experimental petrology, and olivine crystallization.  - Collected, organized, and classified data (SEM/EDS, PPL imaging) to qualitatively and quantitatively describe the mineralogy of these samples.  - Presented findings at the 2023 Macalester’s Summer Research Poster Session and the 2023 National Diversity in STEM Conference.\nUWC Robert Bosch College | Freiburg, BW, Germany  - Science Tutor | September 2020 - May 2021  - Summarized course content for Biology and Earth Systems and Society to improve students’ retention and experiential learning of a variety of science concepts.  - Recreated classroom activities and review sessions through engaging and clear communication with students and teachers."
+  },
+  {
+    "objectID": "CV.html#leadership-civic-engagement",
+    "href": "CV.html#leadership-civic-engagement",
+    "title": "CV",
+    "section": "Leadership & Civic Engagement",
+    "text": "Leadership & Civic Engagement\n\nSociety for the Advancement of Chicanos/Hispanics and Native Americans in STEM | Macalester College | October 2023 - Present  - Established of the first SACNAS chapter at Macalester College, fostering an inclusive space for underrepresented students of color in science.  - Organized diverse events, including professional development sessions, graduate student talks, and informal gatherings, promoting engagement between students and professors.  - Lead the internal selection and preparation of students for the 2024 National Diversity in STEM conference, brainstorming how to deliver impactful poster presentations.\nGeoClub | Macalester College | January 2024 - Present  - Co-chaired Macalester’s club for geologists, promoting the geosciences within the community.  - Organized diverse events and collaborated with scientific institutions, like the Minnesota Science Museum, to make geology more accessible to a broader audience, particularly children.  - Lead a Unlearning Racism in Geoscience (URGE) initiative, fostering open dialogues among students and faculty, creating a platform to discuss and establish actionable steps to enhance diversity within the field.\nAdelante | Macalester College | January 2022 - December 2023  - Co-chaired Macalester’s oldest Latin American organization, fostering a unique space for Latinx students to share their experiences and grow as a community.  - Organized diverse events, including reflection sessions, archival research on Latinx history at our institution, and social events.\nARCPIN Museum of Education | Instituto Nacional José Miguel Carrera | May 2023 - August 2023  - Explored unclassified mineralogical and petrological collections to organize the museum’s scientific records and select samples for educational use.  - Developed classification diagrams and instructed high-school students on basic rock and mineral identification.  - Prepared mineral, rock, and fossil samples for display in a public gallery."
+  },
+  {
+    "objectID": "CV.html#skills",
+    "href": "CV.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nLanguages: Spanish, English (native, bilingual proficiency); German (advanced proficiency)\nSoftware: R/Rstudio (advanced proficiency); Python (beginner proficiency); ArcGIS Pro, ArcGIS Online, QGIS (intermediate proficiency); Linux (beginner proficiency).\nLaboratory: Scanning Electron Microscope (SEM/EDS); X-Ray Diffractometer; Micro X-Ray Spectrometer"
+  },
+  {
+    "objectID": "CV.html#awards-and-certificates",
+    "href": "CV.html#awards-and-certificates",
+    "title": "CV",
+    "section": "Awards and Certificates",
+    "text": "Awards and Certificates\n\nDean’s List for Academic Excellence (all elegible semesters) | Macalester College\nDavis United World Colleges Scholar | Davis UWC Foundation\nUnited World College Scholar | UWC Robert Bosch College\nWilderness/Remote First Aid Certificate | National Outdoors Leadership School (NOLS)\nGerman B1 Certificate | Goethe Institut"
+  },
+  {
+    "objectID": "projects/Fracking-induced Seismicity/index.html",
+    "href": "projects/Fracking-induced Seismicity/index.html",
+    "title": "Fracking-induced Seismicity in Oklahoma: Impacts and Perspectives",
+    "section": "",
+    "text": "In the wake of a staggering nine-hundred-fold surge in seismic activity since 2008, the state of Oklahoma stands at the forefront of a complex geological and socio-economic conundrum. This seismic upswing, unequivocally linked to the escalating demand for oil and natural gas extraction, has prompted a pivotal inquiry into its profound ramifications on the state’s economy, environment, and local communities.\nBy addressing the intricate interplay between geological phenomena and human activities, this GIS project aims to unravel the spatial patterns underlying Oklahoma’s seismic landscape. Through this exploration, we aspire to offer valuable insights into the intricate web connecting seismicity, extraction practices, and their repercussions.\nProducts\n\nArcGIS StoryMap"
+  },
+  {
+    "objectID": "projects/COVID19 and US Prisions/index.html",
+    "href": "projects/COVID19 and US Prisions/index.html",
+    "title": "How did COVID19 affect US prisions?",
+    "section": "",
+    "text": "Three years into the COVID-19 pandemic, we’re discovering new and alarming ways that illness affects different populations and interacts with issues such as incarceration. At more than two million people, the United States has the highest incarceration rate in the world. Despite having limited public information about Covid deaths among incarcerated people, prisons have been epicenters of Covid cases and deaths. The Department of Justice, which is mandated by Congress to report on deaths in prisons, ceased their reports in 2020, leaving a wide gap in available information about how the pandemic has affected incarcerated populations.\nThe COVID Behind Bars Data Project, which provided data for this analysis, was launched in 2020 by the UCLA Law School. Their goal is to quantify the spread and impact of the pandemic within prisons and shine light on the shortcomings of the prison system. According to UCLA Law, the most humane response to the issue of Covid behind bars would be to release people from custody and push for better health practices for those who remain incarcerated.\nProducts\n\nShinyApp"
+  },
+  {
+    "objectID": "projects/Geomorphic study of Minnehaha Creek/index.html",
+    "href": "projects/Geomorphic study of Minnehaha Creek/index.html",
+    "title": "Geomorphic study of water discharge at Minnehaha Creek",
+    "section": "",
+    "text": "Minnehaha Creek is a tributary of the Mississippi River. Still, its own watershed area is around 170 square miles. Located in the west-central area of the Metropolitan Twin Cities, it flows through urban and suburban settlements, grasslands, forests, and wetlands. Minnehaha Creek goes over multiple geologic formations as it flows towards the Mississippi. These include the Platville and Glenwood Formations (limestone and dolostone; shale), the Saint Peter Sandstone, and the Prairie du Chien group (sandy dolostone). Minnehaha Falls are located over the St Peter Sandstone, but the Platville and Glenwood formations are visible on the cliff wall. The creek, however, has been intervened and engineered to make it urban-friendly, especially by Minnehaha Falls.\nWe collected data on Minnehaha Creek over the span of September and October 2023. Data was collected at Lower Glen Trail for three weeks. Active channel data was collected above Minnehaha Falls in the third week, too. We aim to understand the active water discharge of this channel, as well as the consequences of bankfull flow and the largest floods recorded in its history.\nProducts\n\nReport"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nFracking-induced Seismicity in Oklahoma: Impacts and Perspectives\n\n\n\nGIS\n\n\nData Science\n\n\n\nGIS Spatial Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeomorphic study of water discharge at Minnehaha Creek\n\n\n\nGeology\n\n\n\nFinal report, Geomorphology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow did COVID19 affect US prisions?\n\n\n\nData Science\n\n\n\nFinal project studying the spread of Covid-19\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrange glass from the Moon: new perspectives in olivine crystallization from Ti-rich magma\n\n\n\nGeology\n\n\nPlanetary Science\n\n\n\nSummer research on the petrology of lunar samples.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting AirBnb prices in NYC. Machine Learning regression\n\n\n\nMachine Learning\n\n\n\nGroup project using Least Absolute Shrinkage and Selection Operator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWill my flight be late? Machine Learning classification\n\n\n\nMachine Learning\n\n\n\nGroup project using random forests classification\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projects/Fracking-induced Seismicity/index.html",
+    "href": "Projects/Fracking-induced Seismicity/index.html",
+    "title": "Fracking-induced Seismicity in Oklahoma: Impacts and Perspectives",
+    "section": "",
+    "text": "In the wake of a staggering nine-hundred-fold surge in seismic activity since 2008, the state of Oklahoma stands at the forefront of a complex geological and socio-economic conundrum. This seismic upswing, unequivocally linked to the escalating demand for oil and natural gas extraction, has prompted a pivotal inquiry into its profound ramifications on the state’s economy, environment, and local communities.\nBy addressing the intricate interplay between geological phenomena and human activities, this GIS project aims to unravel the spatial patterns underlying Oklahoma’s seismic landscape. Through this exploration, we aspire to offer valuable insights into the intricate web connecting seismicity, extraction practices, and their repercussions.\nProducts\n\nArcGIS StoryMap"
+  },
+  {
+    "objectID": "Projects/Geomorphic study of Minnehaha Creek/index.html",
+    "href": "Projects/Geomorphic study of Minnehaha Creek/index.html",
+    "title": "Geomorphic study of water discharge at Minnehaha Creek",
+    "section": "",
+    "text": "Minnehaha Creek is a tributary of the Mississippi River. Still, its own watershed area is around 170 square miles. Located in the west-central area of the Metropolitan Twin Cities, it flows through urban and suburban settlements, grasslands, forests, and wetlands. Minnehaha Creek goes over multiple geologic formations as it flows towards the Mississippi. These include the Platville and Glenwood Formations (limestone and dolostone; shale), the Saint Peter Sandstone, and the Prairie du Chien group (sandy dolostone). Minnehaha Falls are located over the St Peter Sandstone, but the Platville and Glenwood formations are visible on the cliff wall. The creek, however, has been intervened and engineered to make it urban-friendly, especially by Minnehaha Falls.\nWe collected data on Minnehaha Creek over the span of September and October 2023. Data was collected at Lower Glen Trail for three weeks. Active channel data was collected above Minnehaha Falls in the third week, too. We aim to understand the active water discharge of this channel, as well as the consequences of bankfull flow and the largest floods recorded in its history.\nProducts\n\nReport"
+  },
+  {
+    "objectID": "Projects/Orange glass from the Moon/index.html",
+    "href": "Projects/Orange glass from the Moon/index.html",
+    "title": "Orange glass from the Moon: new perspectives in olivine crystallization from Ti-rich magma",
+    "section": "",
+    "text": "Apollo 17 astronauts collected a drill core through volcanic material from titanium-rich eruptions (~9 wt.% TiO2). Unlike other pyroclastic samples from the Moon, this deposit contains olivine crystals, whose texture and chemistry reflects its growth environment. We selected five thin sections from the drill core to investigate the processes occurring during the magma’s ascent and eruption.\nThis summer, I constructed mosaics of thin section 74001,6047 using a petrographic microscope (plane-polarized at 4x magnification) and a scanning electron microscope (backscattered electron imaging at 500x magnification). Based on initial imaging results, we hypothesize that crystallization of olivine happened in three phases, reflected by three textural groups; deep within the lunar mantle (~300-µm crystals), while magma rose (~50-µm crystals), and during eruption (sub-µm dendrites).\nWe will use electron microprobe analysis (EMPA) to quantify chemical zoning in olivine grains, relating chemical differences to the three textural groups, which reflect the magma’s origin, speed of ascent, and eruption characteristics. Initial results from chemical zoning in section 74002,6043 demonstrate variations in magnesium, iron, titanium, phosphorus, and chromium within olivine crystals. Continuing research will quantitatively classify the texture of olivine crystals and model elemental diffusion in these sections to obtain timescales of magma ascent and possible mixing.\nProducts\n\nPoster\nPoster presentations at Macalester Summer Poster Presentation (October 2023) and National Diversity in STEM Conference (October 2023)"
+  },
+  {
+    "objectID": "Projects/Predicting flight delays/index.html",
+    "href": "Projects/Predicting flight delays/index.html",
+    "title": "Will my flight be late? Machine Learning classification",
+    "section": "",
+    "text": "This Shiny App predicts whether a flight leaving from the Minneapolis/St Paul Intl Airport will depart on time or late. You can import the following information from your flight and this Machine Learning algorithm (Random Forest) will print a prediction.\nWhen predicting new data points the user can expect the model to be accurate roughly 87% of the time. Keep in mind that our model is better at predicting on-time flights as this is the most dominant category in the data set used to build the forest.\nProducts\n\nShinyApp"
+  },
+  {
+    "objectID": "Projects/Predicting NYC Airbnb prices/index.html",
+    "href": "Projects/Predicting NYC Airbnb prices/index.html",
+    "title": "Predicting AirBnb prices in NYC. Machine Learning regression",
+    "section": "",
+    "text": "In the heart of the bustling metropolis that is New York City, a dynamic marketplace of AirBnb listings unfolds, offering a plethora of accommodations to travelers from all corners of the globe. From snug apartments in the heart of Manhattan to expansive lofts in Brooklyn, these listings not only span the spectrum in terms of location but also come with a rich array of features and amenities. Today, we embark on a statistical exploration to uncover the underlying factors that dictate the price of these listings. Our investigative journey will revolve around two pivotal questions:\n\nPredicting Airbnb Listing Prices: Can we forecast the price of an AirBnb listing based on its features?\nThe Anatomy of Price Differences: What are the discerning characteristics that elevate some listings to a higher price bracket than others?\n\nProducts\n\nReport"
+  },
+  {
+    "objectID": "Projects/COVID19 and US Prisions/index.html",
+    "href": "Projects/COVID19 and US Prisions/index.html",
+    "title": "How did COVID19 affect US prisions?",
+    "section": "",
+    "text": "Three years into the COVID-19 pandemic, we’re discovering new and alarming ways that illness affects different populations and interacts with issues such as incarceration. At more than two million people, the United States has the highest incarceration rate in the world. Despite having limited public information about Covid deaths among incarcerated people, prisons have been epicenters of Covid cases and deaths. The Department of Justice, which is mandated by Congress to report on deaths in prisons, ceased their reports in 2020, leaving a wide gap in available information about how the pandemic has affected incarcerated populations.\nThe COVID Behind Bars Data Project, which provided data for this analysis, was launched in 2020 by the UCLA Law School. Their goal is to quantify the spread and impact of the pandemic within prisons and shine light on the shortcomings of the prison system. According to UCLA Law, the most humane response to the issue of Covid behind bars would be to release people from custody and push for better health practices for those who remain incarcerated.\nProducts\n\nShinyApp"
+  }
+]
