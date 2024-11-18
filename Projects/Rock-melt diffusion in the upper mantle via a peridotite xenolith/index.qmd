@@ -1,0 +1,21 @@
+---
+title: "Rock-melt diffusion in the upper mantle via a peridotite xenolith"
+description: "Summer reserch project @ MIT EAPS"
+image: highlight.JPG
+image-alt: quizgrader logo
+categories:
+  - Geology
+about:
+  template: solana
+  image: highlight.JPG
+---
+
+Partial melting of the mantle to generate mid-ocean ridge basalts (MORBs) is a widely accepted, yet enigmatic, process. The Fe isotopic composition of MORBs indicates enrichment in heavier isotopes, contradicting the predictions of the established equilibrium partial melting model. We explore the role of chemical diffusion as a kinetic process, which might modify melts during their generation and transport. 
+
+This study explores a peridotite xenolith from Mongolia’s Shavaryn-Tsaram basaltic outcrop (S-11), which could provide insights into this mantle-melt interaction. S-11 contains a contact zone of spinel lherzolite and a pyroxenite vein. Three thin sections of S-11 will be analyzed using a petrographic microscope for petrography and mineral modes. Major olivine, spinel, orthopyroxene, and clinopyroxene element compositions will be examined through scanning electron microscopy (SEM) and electron microprobe analysis (EMPA). A continuous chemical profile of iron-magnesium exchange along the melt-mantle boundary will be acquired to investigate the role of diffusion in the transportation of mantle-derived melts. 
+
+Preliminary results suggest a redistribution of Al and Ca along the melt-mantle boundary. This points to a kinetic reaction rather than equilibrium crystallization. Continuous work will use diffusivity rates to estimate time scales of kinetic redistribution during melt generation and solidify our understanding of MORBs.
+
+**Products**
+
+- [Poster](https://drive.google.com/file/d/1qRkdxO5XzH9I3jOWfYRpgiXW26pKZih6/view?usp=sharing)

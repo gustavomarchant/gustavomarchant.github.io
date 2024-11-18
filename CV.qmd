@@ -1,0 +1,7 @@
+---
+title: "CV"
+about:
+  template: solana
+---
+
+![](CV.pdf){width=840px height=580px}

@@ -1,0 +1,46 @@
+---
+title: "Gustavo Marchant Allende"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/profilepic.jpg
+  links:
+    - icon: github
+      href: https://github.com/gustavomarchant
+    - icon: linkedin
+      href: https://www.linkedin.com/in/gustavo-marchant-allende-a6b387225/
+---
+
+::: {#intro-heading}
+## Gustavo A. Marchant Allende
+
+[Pronunciation](https://namedrop.io/gustavomarchantallende1)
+
+he/him/él
+
+## Education
+
+Macalester College \| St. Paul MN <br>
+
+B.A. in Geology, minor in Statistics \| Sept 2021 - May 2025
+
+## Experience
+
+Massachusetts Institute of Technology \| Summer Research Intern \| June 2024 - Aug 2024
+
+Macalester College \| Summer Researcher Assistant \| June 2023 - Aug 2023
+:::
+
+## About me
+
+I am geology student largely interested in geochemistry of mantle melts. I am interested in the origin and cycling of volatile elements and isotopic signatures in melts. I am looking for ways to intersect geochemistry, petrology, and statistics.
+
+## Personal
+
+I was born in Santiago, Chile but I grew up in Padre Hurtado, a town in the outskirts of the city. When I was 17, I received a [United World College](https://www.uwc.org/about) scholarship to attend UWC Robert Bosch in Freiburg, Germany. After finishing the International Baccalaureate diploma, I moved to Saint Paul, MN to start my undergrad at Macalester College.
+
+I love baking and cooking for my friends. I keep my own recipe book with recipes that I inherited from my great-grandmother. As a member of many international communities, I love trying foreign food.
+
+## Get in touch
+
+**Email** gmarchan\@macalester.edu

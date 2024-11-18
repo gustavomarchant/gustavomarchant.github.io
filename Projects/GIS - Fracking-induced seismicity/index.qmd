@@ -1,0 +1,19 @@
+---
+title: "Fracking-induced Seismicity in Oklahoma: Impacts and Perspectives"
+description: "GIS Spatial Analysis"
+image: highlight.png
+image-alt: quizgrader logo
+categories:
+  - GIS
+about:
+  template: solana
+  image: highlight.png
+---
+
+In the wake of a staggering nine-hundred-fold surge in seismic activity since 2008, the state of Oklahoma stands at the forefront of a complex geological and socio-economic conundrum. This seismic upswing, unequivocally linked to the escalating demand for oil and natural gas extraction, has prompted a pivotal inquiry into its profound ramifications on the state's economy, environment, and local communities. 
+
+By addressing the intricate interplay between geological phenomena and human activities, this GIS project aims to unravel the spatial patterns underlying Oklahoma's seismic landscape. Through this exploration, we aspire to offer valuable insights into the intricate web connecting seismicity, extraction practices, and their repercussions.
+
+**Products**
+
+- [ArcGIS StoryMap](https://arcg.is/1LLPaf0)

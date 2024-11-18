@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Gustavo A. Marchant Allende"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Projects.qmd
+        text: Projects
+      - href: CV.qmd
+        text: CV
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+

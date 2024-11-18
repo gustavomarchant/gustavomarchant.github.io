@@ -1,0 +1,23 @@
+---
+title: "Orange glass from the Moon: new perspectives in olivine crystallization from Ti-rich magma"
+description: "Summer research on the petrology of lunar samples."
+image: highlight_apollo17.jpg
+image-alt: quizgrader logo
+categories:
+  - Geology
+about:
+  template: solana
+  image: highlight_apollo17.jpg
+---
+
+Apollo 17 astronauts collected a drill core through volcanic material from titanium-rich eruptions (~9 wt.% TiO2). Unlike other pyroclastic samples from the Moon, this deposit contains olivine crystals, whose texture and chemistry reflects its growth environment. We selected five thin sections from the drill core to investigate the processes occurring during the magma's ascent and eruption. 
+
+This summer, I constructed mosaics of thin section 74001,6047 using a petrographic microscope (plane-polarized at 4x magnification) and a scanning electron microscope (backscattered electron imaging at 500x magnification). Based on initial imaging results, we hypothesize that crystallization of olivine happened in three phases, reflected by three textural groups; deep within the lunar mantle (~300-µm crystals), while magma rose (~50-µm crystals), and during eruption (sub-µm dendrites). 
+
+We will use electron microprobe analysis (EMPA) to quantify chemical zoning in olivine grains, relating chemical differences to the three textural groups, which reflect the magma’s origin, speed of ascent, and eruption characteristics. Initial results from chemical zoning in section 74002,6043 demonstrate variations in magnesium, iron, titanium, phosphorus, and chromium within olivine crystals. Continuing research will quantitatively classify the texture of olivine crystals and model elemental diffusion in these sections to obtain timescales of magma ascent and possible mixing.
+
+**Products**
+
+- [Poster](https://drive.google.com/file/d/1PCBcKvbYDra6gEMat_61gqFc8gzDt0YQ/view?usp=sharing)
+
+- Poster presentations at Macalester Summer Poster Presentation (October 2023) and National Diversity in STEM Conference (October 2023)
