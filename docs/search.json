@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nFracking-induced Seismicity in Oklahoma: Impacts and Perspectives\n\n\n\nGIS\n\n\n\nGIS Spatial Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeomorphic study of water discharge at Minnehaha Creek\n\n\n\nGeology\n\n\n\nFinal report, Geomorphology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrange glass from the Moon: new perspectives in olivine crystallization from Ti-rich magma\n\n\n\nGeology\n\n\n\nSummer research on the petrology of lunar samples.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRock-melt diffusion in the upper mantle via a peridotite xenolith\n\n\n\nGeology\n\n\n\nSummer reserch project @ MIT EAPS\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projects/GIS - Fracking-induced seismicity /index.html",
+    "href": "Projects/GIS - Fracking-induced seismicity /index.html",
+    "title": "Fracking-induced Seismicity in Oklahoma: Impacts and Perspectives",
+    "section": "",
+    "text": "In the wake of a staggering nine-hundred-fold surge in seismic activity since 2008, the state of Oklahoma stands at the forefront of a complex geological and socio-economic conundrum. This seismic upswing, unequivocally linked to the escalating demand for oil and natural gas extraction, has prompted a pivotal inquiry into its profound ramifications on the state’s economy, environment, and local communities.\nBy addressing the intricate interplay between geological phenomena and human activities, this GIS project aims to unravel the spatial patterns underlying Oklahoma’s seismic landscape. Through this exploration, we aspire to offer valuable insights into the intricate web connecting seismicity, extraction practices, and their repercussions.\nProducts\n\nArcGIS StoryMap"
+  },
+  {
+    "objectID": "Projects/Orange glass from the Moon/index.html",
+    "href": "Projects/Orange glass from the Moon/index.html",
+    "title": "Orange glass from the Moon: new perspectives in olivine crystallization from Ti-rich magma",
+    "section": "",
+    "text": "Apollo 17 astronauts collected a drill core through volcanic material from titanium-rich eruptions (~9 wt.% TiO2). Unlike other pyroclastic samples from the Moon, this deposit contains olivine crystals, whose texture and chemistry reflects its growth environment. We selected five thin sections from the drill core to investigate the processes occurring during the magma’s ascent and eruption.\nThis summer, I constructed mosaics of thin section 74001,6047 using a petrographic microscope (plane-polarized at 4x magnification) and a scanning electron microscope (backscattered electron imaging at 500x magnification). Based on initial imaging results, we hypothesize that crystallization of olivine happened in three phases, reflected by three textural groups; deep within the lunar mantle (~300-µm crystals), while magma rose (~50-µm crystals), and during eruption (sub-µm dendrites).\nWe will use electron microprobe analysis (EMPA) to quantify chemical zoning in olivine grains, relating chemical differences to the three textural groups, which reflect the magma’s origin, speed of ascent, and eruption characteristics. Initial results from chemical zoning in section 74002,6043 demonstrate variations in magnesium, iron, titanium, phosphorus, and chromium within olivine crystals. Continuing research will quantitatively classify the texture of olivine crystals and model elemental diffusion in these sections to obtain timescales of magma ascent and possible mixing.\nProducts\n\nPoster\nPoster presentations at Macalester Summer Poster Presentation (October 2023) and National Diversity in STEM Conference (October 2023)"
+  },
+  {
+    "objectID": "Projects/Rock-melt diffusion in the upper mantle via a peridotite xenolith/index.html",
+    "href": "Projects/Rock-melt diffusion in the upper mantle via a peridotite xenolith/index.html",
+    "title": "Rock-melt diffusion in the upper mantle via a peridotite xenolith",
+    "section": "",
+    "text": "Partial melting of the mantle to generate mid-ocean ridge basalts (MORBs) is a widely accepted, yet enigmatic, process. The Fe isotopic composition of MORBs indicates enrichment in heavier isotopes, contradicting the predictions of the established equilibrium partial melting model. We explore the role of chemical diffusion as a kinetic process, which might modify melts during their generation and transport.\nThis study explores a peridotite xenolith from Mongolia’s Shavaryn-Tsaram basaltic outcrop (S-11), which could provide insights into this mantle-melt interaction. S-11 contains a contact zone of spinel lherzolite and a pyroxenite vein. Three thin sections of S-11 will be analyzed using a petrographic microscope for petrography and mineral modes. Major olivine, spinel, orthopyroxene, and clinopyroxene element compositions will be examined through scanning electron microscopy (SEM) and electron microprobe analysis (EMPA). A continuous chemical profile of iron-magnesium exchange along the melt-mantle boundary will be acquired to investigate the role of diffusion in the transportation of mantle-derived melts.\nPreliminary results suggest a redistribution of Al and Ca along the melt-mantle boundary. This points to a kinetic reaction rather than equilibrium crystallization. Continuous work will use diffusivity rates to estimate time scales of kinetic redistribution during melt generation and solidify our understanding of MORBs.\nProducts\n\nPoster"
+  },
+  {
+    "objectID": "Projects/Water discharge at Minnehaha Creek MN/index.html",
+    "href": "Projects/Water discharge at Minnehaha Creek MN/index.html",
+    "title": "Geomorphic study of water discharge at Minnehaha Creek",
+    "section": "",
+    "text": "Minnehaha Creek is a tributary of the Mississippi River. Still, its own watershed area is around 170 square miles. Located in the west-central area of the Metropolitan Twin Cities, it flows through urban and suburban settlements, grasslands, forests, and wetlands. Minnehaha Creek goes over multiple geologic formations as it flows towards the Mississippi. These include the Platville and Glenwood Formations (limestone and dolostone; shale), the Saint Peter Sandstone, and the Prairie du Chien group (sandy dolostone). Minnehaha Falls are located over the St Peter Sandstone, but the Platville and Glenwood formations are visible on the cliff wall. The creek, however, has been intervened and engineered to make it urban-friendly, especially by Minnehaha Falls.\nWe collected data on Minnehaha Creek over the span of September and October 2023. Data was collected at Lower Glen Trail for three weeks. Active channel data was collected above Minnehaha Falls in the third week, too. We aim to understand the active water discharge of this channel, as well as the consequences of bankfull flow and the largest floods recorded in its history.\nProducts\n\nReport"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gustavo Marchant Allende",
+    "section": "",
+    "text": "Pronunciation\nhe/him/él\n\n\n\nMacalester College | St. Paul MN \nB.A. in Geology, minor in Statistics | Sept 2021 - May 2025\n\n\n\nMassachusetts Institute of Technology | Summer Research Intern | June 2024 - Aug 2024\nMacalester College | Summer Researcher Assistant | June 2023 - Aug 2023"
+  },
+  {
+    "objectID": "index.html#gustavo-a.-marchant-allende",
+    "href": "index.html#gustavo-a.-marchant-allende",
+    "title": "Gustavo Marchant Allende",
+    "section": "",
+    "text": "Pronunciation\nhe/him/él"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Gustavo Marchant Allende",
+    "section": "",
+    "text": "Macalester College | St. Paul MN \nB.A. in Geology, minor in Statistics | Sept 2021 - May 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Gustavo Marchant Allende",
+    "section": "",
+    "text": "Massachusetts Institute of Technology | Summer Research Intern | June 2024 - Aug 2024\nMacalester College | Summer Researcher Assistant | June 2023 - Aug 2023"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Gustavo Marchant Allende",
+    "section": "About me",
+    "text": "About me\nI am geology student largely interested in geochemistry of mantle melts. I am interested in the origin and cycling of volatile elements and isotopic signatures in melts. I am looking for ways to intersect geochemistry, petrology, and statistics."
+  },
+  {
+    "objectID": "index.html#personal",
+    "href": "index.html#personal",
+    "title": "Gustavo Marchant Allende",
+    "section": "Personal",
+    "text": "Personal\nI was born in Santiago, Chile but I grew up in Padre Hurtado, a town in the outskirts of the city. When I was 17, I received a United World College scholarship to attend UWC Robert Bosch in Freiburg, Germany. After finishing the International Baccalaureate diploma, I moved to Saint Paul, MN to start my undergrad at Macalester College.\nI love baking and cooking for my friends. I keep my own recipe book with recipes that I inherited from my great-grandmother. As a member of many international communities, I love trying foreign food."
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Gustavo Marchant Allende",
+    "section": "Get in touch",
+    "text": "Get in touch\nEmail gmarchan@macalester.edu"
+  }
+]

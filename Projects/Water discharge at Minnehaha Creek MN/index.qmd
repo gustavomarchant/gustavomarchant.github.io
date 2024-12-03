@@ -1,0 +1,19 @@
+---
+title: "Geomorphic study of water discharge at Minnehaha Creek"
+description: "Final report, Geomorphology"
+image: highlight.png
+image-alt: quizgrader logo
+categories:
+  - Geology
+about:
+  template: solana
+  image: highlight.png
+---
+
+Minnehaha Creek is a tributary of the Mississippi River. Still, its own watershed area is around 170 square miles. Located in the west-central area of the Metropolitan Twin Cities, it flows through urban and suburban settlements, grasslands, forests, and wetlands. Minnehaha Creek goes over multiple geologic formations as it flows towards the Mississippi. These include the Platville and Glenwood Formations (limestone and dolostone; shale), the Saint Peter Sandstone, and the Prairie du Chien group (sandy dolostone). Minnehaha Falls are located over the St Peter Sandstone, but the Platville and Glenwood formations are visible on the cliff wall. The creek, however, has been intervened and engineered to make it urban-friendly, especially by Minnehaha Falls.
+
+We collected data on Minnehaha Creek over the span of September and October 2023. Data was collected at Lower Glen Trail for three weeks. Active channel data was collected above Minnehaha Falls in the third week, too. We aim to understand the active water discharge of this channel, as well as the consequences of bankfull flow and the largest floods recorded in its history.
+
+**Products**
+
+- [Report](https://drive.google.com/file/d/1tVFpXLATDzfdu48A0i0_2sj0lUXtUY3_/view?usp=sharing)
