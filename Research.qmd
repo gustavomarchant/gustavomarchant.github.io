@@ -2,18 +2,6 @@
 title: "Research"
 about: 
   template: solana
-format:
-  html:
-    html-math-method: katex
-    toc: true
-    include-in-header: 
-      text: |
-        <style>
-          .carousel-item img {
-            width: 100%;
-            height: auto;
-          }
-        </style>
 ---
 
 **Apollo samples, oxides, armalcolite**
@@ -21,26 +9,6 @@ format:
 Under construction.
 
 **Rock-melt interactions in upper mantle xenoliths**
-
-<div id="photoCarousel" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="/Users/gustavo/Desktop/gustavomarchant.github.io/images/sample.png" class="d-block w-100">
-    </div>
-    <div class="carousel-item">
-      <img src="/Users/gustavo/Desktop/gustavomarchant.github.io/images/sem.png" class="d-block w-100">
-    </div>
-    <div class="carousel-item">
-      <img src="/Users/gustavo/Desktop/gustavomarchant.github.io/images/model.png" class="d-block w-100">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#photoCarousel" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#photoCarousel" data-bs-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </button>
-</div>
 
 My honors thesis at Macalester investigated how melt-rock interactions shape the lithospheric mantle. I started this project at the [2024 MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/) under the guidance of [Dr. Nicole Xike Nie](https://eaps.mit.edu/people/faculty/nicole-xike-nie/).
 
