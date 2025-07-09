@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Hi!",
     "section": "",
-    "text": "My name is Gustavo A. Marchant Allende (pronunciation). The pronouns that I use are he/him/his.\nI am a PhD student at Purdue University working with Kelsey Prissel at the Purdue Petrology Suite. My research interests include igneous processes in the Earth’s mantle and volcanism on the Moon.\nI was born in Santiago, Chile. When I was 17, I received a United World College scholarship to attend UWC Robert Bosch in Freiburg, Germany. I love baking and cooking for my friends! I keep my own recipe book with recipes that I inherited from my great-grandmother. I am a fan of urban biking, lifting, and hiking.\nYou can contact me at gmarchan@purdue.edu."
+    "text": "My name is Gustavo A. Marchant Allende (pronunciation). The pronouns that I use are he/him/his.\nI am a PhD student at Purdue University working with Dr. Kelsey Prissel at the Purdue Petrology Suite. My research interests include igneous processes in the Earth’s mantle and volcanism on the Moon.\nI was born in Santiago, Chile. When I was 17, I received a United World College scholarship to attend UWC Robert Bosch in Freiburg, Germany.\nI love baking and cooking for my friends! I keep my own recipe book with recipes that I inherited from my great-grandmother. I am a fan of urban biking, lifting, and hiking.\nYou can contact me at gmarchan@purdue.edu."
   },
   {
     "objectID": "index.html#gustavo-a.-marchant-allende",
@@ -82,5 +82,12 @@
     "title": "Hi!",
     "section": "Get in touch",
     "text": "Get in touch\nEmail gmarchan@purdue.edu"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Oxides in Apollo samples\nUnder construction.\nRock-melt interactions in upper mantle xenoliths\nOlivine crystallization from Ti-rich magma from Apollo 17"
   }
 ]
