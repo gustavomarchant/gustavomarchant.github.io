@@ -3,3 +3,16 @@
 #intro-heading img {
   border-radius: 50%;
 }
+
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+}
+
+.photo-grid img {
+  width: 75%;
+  height: auto;
+  border-radius: 10px;
+}

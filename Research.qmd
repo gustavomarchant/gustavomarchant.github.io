@@ -4,16 +4,33 @@ about:
   template: solana
 ---
 
-**Apollo samples, oxides, armalcolite**
+**Ti-rich basalts on the moon, armalcolite and ilmenite**
 
-Under construction.
+Under construction!
 
 **Rock-melt interactions in upper mantle xenoliths**
 
-My honors thesis at Macalester investigated how melt-rock interactions shape the lithospheric mantle. I started this project at the [2024 MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/) under the guidance of [Dr. Nicole Xike Nie](https://eaps.mit.edu/people/faculty/nicole-xike-nie/).
+<div class="photo-grid">
+  <img src="images/sample.png">
+</div>
 
-I studied mantle xenoliths from two intraplate volcanic settings: Tariat, Mongolia, and Kilbourne Hole, New Mexico. My goal was to understand how melt composition, interaction timescales, and temperature influence the mineral and chemical evolution of the lithospheric mantle. I used a combination of petrography, micro-XRF, SEM-WDS, and EPMA to analyze six xenoliths from these two regions.
+My honors thesis at Macalester investigated how melt-rock interactions shape the lithospheric mantle. I started this project at the [2024 MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/) under the guidance of [Prof. Nicole Xike Nie](https://eaps.mit.edu/people/faculty/nicole-xike-nie/).
 
-Diffusion modeling of Ca and Al profiles constrains melt-rock interaction timescales to thousands of years in Tariat and just decades in Kilbourne Hole. These contrasting histories also show up in mineral chemistry: Tariat samples are enriched in Ca/Al with high-Mg# olivine, while Kilbourne Hole samples display melt depletion trends like high Mg# in pyroxenes and elevated Cr# in spinel. Cooling rates differ as well—Tariat samples cooled slowly over tens of thousands of years, while Kilbourne Hole samples cooled over just a few years.
+I studied mantle xenoliths from two intraplate volcanic settings: Tariat, Mongolia, and Kilbourne Hole, New Mexico. My goal was to understand how melt composition, temperature influence the timescale of mineral and chemical evolution of the lithospheric mantle. I used a combination of petrography, micro-XRF, SEM-WDS, and EPMA to analyze six xenoliths from these two regions.
+
+Diffusion modeling of Ca and Al profiles constrains melt-rock interaction timescales to thousands of years in Tariat and just decades in Kilbourne Hole. Tariat samples are enriched in Ca/Al with high-Mg# olivine, while Kilbourne Hole samples display melt depletion trends like high Mg# in pyroxenes and elevated Cr# in spinel. Cooling rates differ as well; Tariat samples cooled slowly over tens of thousands of years, while Kilbourne Hole samples cooled over just a few years.
 
 **Olivine crystallization from Ti-rich magma from Apollo 17**
+
+<div class="photo-grid">
+  <img src="images/xplorange.png">
+  <img src="images/bseorange.png">
+</div>
+
+This was my first formal research experience under [Prof. Emily First](https://www.macalester.edu/geology/facultystaff/emily-first/) and my first work in planetary science!
+
+In 1972, Apollo 17 astronauts collected a drill core through volcanic ejecta (mm-sized lava beads) from titanium-rich eruptions (~9 wt.% TiO2). Unlike other pyroclastic samples from the Moon, this deposit contains olivine, whose texture and chemistry reflects its growth environment.
+
+For this project, we selected five thin sections from the drill core to better understand what happened as the magma rose to the surface and erupted. These thin sections contain volcanic glass beads along with the minerals olivine, spinel, and ilmenite. I built mosaics of section 74001,6047 using a petrographic microscope (XPL, 4x magnification) and a SEM (BSE, 500x magnification).
+
+We hypothezised that olivine crystals formed in three different stages. The largest crystals, about three hundred micrometers across, likely grew deep inside the Moon’s mantle. Medium-sized crystals, around fifty micrometers, probably formed as the magma rose. The smallest crystals, with dendritic shapes and sizes below one micrometer, seem to have grown during the eruption itself. Preliminary results from section 74002,6043 show that elements like magnesium, iron, titanium, phosphorus, and chromium vary within individual olivine crystals. This supports the idea that the magma crystallized in multiple stages as it traveled through the Moon’s interior.

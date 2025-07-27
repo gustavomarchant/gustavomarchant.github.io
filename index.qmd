@@ -9,6 +9,9 @@ about:
       href: https://github.com/gustavomarchant
     - icon: linkedin
       href: https://www.linkedin.com/in/gustavo-marchant-allende-a6b387225/
+    - text: ORCID
+      href: https://orcid.org/0009-0005-4216-7049
+      icon: none
 ---
 
 ::: {#intro-heading}
@@ -17,7 +20,7 @@ My name is Gustavo A. Marchant Allende ([pronunciation](https://namedrop.io/gust
 
 I am a PhD student at Purdue University working with [Dr. Kelsey Prissel](https://kelseyprissel.weebly.com) at the [Purdue Petrology Suite](https://www.eaps.purdue.edu/petrology/). My research interests include high-temperature geochemistry, planetary geology, and experimental petrology.
 
-I was born in Santiago, Chile. When I was 17, I received a [United World College](https://www.uwc.org/about) scholarship to attend UWC Robert Bosch in Freiburg, Germany. 
+I was born in Santiago, Chile. When I was 17, I received a [United World College](https://www.uwc.org/about) scholarship to attend UWC Robert Bosch in Freiburg, Germany. I studied geology at Macalester College in Saint Paul, MN. Go Scots!
 
 I love baking and cooking for my friends! I keep my own recipe book with recipes that I inherited from my great-grandmother. I am a fan of urban biking, lifting, and hiking. 
 
