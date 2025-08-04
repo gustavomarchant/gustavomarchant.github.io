@@ -12,8 +12,6 @@ website:
         text: Research
       - href: CV.qmd
         text: CV
-      - href: gradapp.qmd
-        text: Grad school apps
 
 format:
   html:
