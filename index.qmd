@@ -3,7 +3,7 @@ title: "Hi!"
 about:
   id: intro-heading
   template: trestles
-  image: images/profilepic.jpg
+  image: images/IMG_3964.jpeg
   links:
     - icon: github
       href: https://github.com/gustavomarchant
