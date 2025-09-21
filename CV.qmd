@@ -4,4 +4,6 @@ about:
   template: solana
 ---
 
+[Download my CV here](https://drive.google.com/file/d/1xzalIstUaQs7_XLtGbj9jZdFvljw15Mn/view?usp=sharing).
+
 ![](CV.pdf){width=840px height=580px}
