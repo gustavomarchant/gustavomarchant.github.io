@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Gustavo A. Marchant Allende"
+  title: "Gustavo Marchant Allende"
   navbar:
     left:
       - href: index.qmd
@@ -12,6 +12,8 @@ website:
         text: Research
       - href: CV.qmd
         text: CV
+      - href: Images.qmd
+        text: Images
 
 format:
   html:
