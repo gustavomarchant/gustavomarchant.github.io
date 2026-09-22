@@ -4,6 +4,6 @@ about:
   template: solana
 ---
 
-[Download my CV here!](https://drive.google.com/file/d/1xzalIstUaQs7_XLtGbj9jZdFvljw15Mn/view?usp=sharing)
+[Download my CV here!](https://purdue0-my.sharepoint.com/:b:/g/personal/gmarchan_purdue_edu/IQCkkinQOW2uRo3xH_G9anMXAf3SMPvkd4RdDJPl44h3xbc?e=R5UGVU)
 
 ![](CV.pdf){width=840px height=580px}
